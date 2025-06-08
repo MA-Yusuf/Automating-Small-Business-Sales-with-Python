@@ -8,7 +8,8 @@ Leveraging Python to improve data retrieval methods as well as create products t
 
 PROBLEM STATEMENT  
 --- 
-Many small and informal retail businesses struggle with daily sales operations due to a lack of affordable, easy-to-use digital tools. They often rely on handwritten notes or mental calculations to process sales, which leads to frequent errors, lost revenue, and no reliable way to track performance over time. Without access to structured data, these businesses miss out on opportunities to grow or make informed decisions. QuickBasket addresses this gap by providing a lightweight, checkout app that automates pricing, applies discounts and taxes, stores itemized sales data, and generates digital receipts. Designed to run offline and require minimal technical knowledge, QuickBasket empowers small retailers to improve efficiency, accuracy, and record-keeping.
+Many small and informal retail businesses struggle with daily sales operations due to a lack of affordable, easy-to-use digital tools. They often rely on handwritten notes or mental calculations to process sales, which leads to frequent errors, lost revenue, and no reliable way to track performance over time. Without access to structured data, these businesses miss out on opportunities to grow or make informed decisions. 
+QuickBasket addresses this gap by providing a lightweight, checkout app that automates pricing, applies discounts and taxes, stores itemized sales data, and generates digital receipts. Designed to run offline and require minimal technical knowledge, QuickBasket empowers small retailers to improve efficiency, accuracy, and record-keeping.
 
 AIM OF PROJECT (IMPORTANCE OF PROJECT TO BUSINESS)
 --- 
